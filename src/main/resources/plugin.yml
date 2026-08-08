@@ -1,0 +1,25 @@
+name: Helden-Plugin
+version: 1.0
+main: de.heldenplugin.main.HeldenPlugin
+api-version: "1.21"
+
+commands:
+  setstartitems:
+    description: Starter-Items festlegen
+    usage: /setstartitems
+    permission: helden-plugin.admin
+  placeshop:
+    description: Shop-PC platzieren
+    usage: /placeshop
+    permission: helden-plugin.admin
+  setbase:
+    description: Basis setzen
+    usage: /setbase
+  villagerinfo:
+    description: Villager-Info
+    usage: /villagerinfo
+
+permissions:
+  helden-plugin.admin:
+    description: Admin
+    default: op
