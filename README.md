@@ -111,7 +111,5 @@ Helden-Plugin/
 - `api-version: "1.21"` in der `plugin.yml` — kompatibel mit Spigot/Paper **1.21.x** bis **26.2**.
 - Java 21+ auf dem Server erforderlich (bzw. Java 25 für Minecraft 26.1+).
 
-## Lizenz
-
-Keine Lizenz hinterlegt — füge z. B. eine `LICENSE`-Datei (MIT, GPL-3.0, ...) hinzu, bevor du das Repository veröffentlichst, falls du die Nutzung durch andere regeln möchtest.
+### Translations will come soon!
 
